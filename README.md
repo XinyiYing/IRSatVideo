@@ -10,7 +10,7 @@ Note that, we provide instance-level segmentation annotations to offer an infrar
 ### Downloads
 
 To access IRSatVideo dataset, please fill the following form: 
-[[Microsoft Forms]](https://forms.cloud.microsoft/r/eYC3mNz5s3).
+[[Microsoft Forms]](https://forms.cloud.microsoft/r/eYC3mNz5s3). You will receive the downloading link after filling out the form automatically.
 
 ### Implementation
 
